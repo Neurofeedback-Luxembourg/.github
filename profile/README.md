@@ -102,6 +102,7 @@ We also offer **recoveriX**, a distinct medical rehabilitation service:
 - Multiple Sclerosis (MS)
 - Traumatic Brain Injury (TBI)
 - Spinal Cord Injury (SCI)
+- Parkinson's Disease
 
 **Important:** recoveriX is separate from our neurofeedback wellness and optimization services.
 
