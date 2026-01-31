@@ -224,7 +224,7 @@ For personalized brain optimization or medical rehabilitation services, please c
 
 **Building the future of brain optimization through holistic, evidence-based neuroscience** 🧠✨
 
-*Accredited Private Research Institute | Luxembourg | Since 2014 | 2,000+ Brains Optimized*
+*Accredited Private Research Institute | Luxembourg | Since 2014 | 3,000+ Brains Optimized*
 
 ---
 
