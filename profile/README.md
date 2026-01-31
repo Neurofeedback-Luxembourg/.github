@@ -8,7 +8,7 @@
 
 **Neurofeedback Luxembourg** is an **accredited private research institute** based in Luxembourg, pioneering advanced brain optimization through our unique holistic, multi-modal approach.
 
-**Since 2014**, we've helped **2,000+ clients** optimize their brain function, mental wellness, and cognitive performance through evidence-based neuroscience and personalized care.
+**Since 2014**, we've helped **3,000+ clients** optimize their brain function, mental wellness, and cognitive performance through evidence-based neuroscience and personalized care.
 
 ---
 
