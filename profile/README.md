@@ -1,14 +1,14 @@
 # Neurofeedback Luxembourg 🧠
 
-**Accredited Private Research Institute | Pioneering Holistic Brain Optimization**
+**Measurement-first brain training in Luxembourg since 2014 | Research-active**
 
 ---
 
 ## Who We Are
 
-**Neurofeedback Luxembourg** is an **accredited private research institute** based in Luxembourg, pioneering advanced brain optimization through our unique holistic, multi-modal approach.
+**Neurofeedback Luxembourg** is a measurement-first brain-training practice based in Luxembourg, research-active through CURATOR (FNR Industrial Fellowship with the University of Luxembourg), pioneering advanced brain optimization through our unique holistic, multi-modal approach.
 
-**Since 2014**, we've helped **3,000+ clients** optimize their brain function, mental wellness, and cognitive performance through evidence-based neuroscience and personalized care.
+**Since 2014** we have recorded **3,500+ brain maps** and delivered **25,000+ sessions**, using a 19-electrode brain map (140+ Google reviews, 4.9/5 average).
 
 ---
 
@@ -69,8 +69,8 @@ We don't just treat symptoms or train brainwaves - **we optimize the whole perso
 ✅ **Network-Based Training** - Deep brain structure connectivity optimization using sLORETA
 ✅ **Multi-Modal Integration** - Synergistic combination of five complementary modalities
 ✅ **Personalized Protocols** - Tailored to your unique brain patterns and wellness goals
-✅ **Research-Based Excellence** - Accredited institute with scientific rigor
-✅ **Proven Track Record** - 2,000+ clients since 2014
+✅ **Research-Active** - CURATOR, an FNR Industrial Fellowship with the University of Luxembourg
+✅ **Track Record** - 3,500+ brain maps and 25,000+ sessions since 2014
 
 ---
 
@@ -188,7 +188,7 @@ We welcome contributions to our educational content:
 ## Our Values
 
 ### 🔬 **Scientific Excellence**
-Accredited research institute committed to evidence-based practice
+Research-active: every figure linked to its source
 
 ### 💚 **Holistic Care**
 Treating the whole person, not just symptoms
